@@ -1,2 +1,2 @@
 # plataforma
-plataforma para TCC
+ plataforma
